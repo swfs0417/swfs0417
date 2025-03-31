@@ -17,3 +17,4 @@ SNU Linguistics undergraduate student
       [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={swfs0417})](https://solved.ac/{swfs0417})
     </div>
     
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={swfs0417})](https://solved.ac/{swfs0417})
